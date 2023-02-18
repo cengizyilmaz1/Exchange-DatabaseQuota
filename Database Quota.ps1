@@ -1,3 +1,14 @@
+<#	
+#################################################################################################################
+# Yayınlanma Tarihi: 18.02.2023
+# Cengiz YILMAZ
+# MCT
+# https://cozumpark.com/author/cengizyilmaz
+# https://cengizyilmaz.net
+# cengiz@cengizyilmaz.net
+#
+##################################################################################################################
+#>
 Add-PSSnapin Microsoft.Exchange.Management.PowerShell.SnapIn
  
 # Set the database, threshold, from, server, port, to, subject and body variables
